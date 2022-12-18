@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ganta Puneeth Reddy
-- 👀 I’m interested in competetive programming and full stack
-- 🌱 I’m currently learning full stack which uses python as backend
-- 💞️ I’m looking to collaborate on full stack development
+- 👀 I’m interested in deep learning and NLP
+- 🌱 I’m currently learning deep learning using python to develop
+- 💞️ I’m looking to collaborate on machine learning or deep learning or nlp projects
 - 📫 Contact me through email-gantareddy313@gmail.com
 
 <!---
